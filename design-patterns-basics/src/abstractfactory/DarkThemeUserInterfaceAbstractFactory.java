@@ -20,5 +20,8 @@ public class DarkThemeUserInterfaceAbstractFactory implements UserInterfaceAbstr
 	public Panel createPanel() {
 		return new DarkThemePanel();
 	}
+	
+	public void method() {
+	}
 
 }
